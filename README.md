@@ -5,11 +5,11 @@
 <pre><code>sudo bash && apt install wget -y && rm -f gasss-root.sh && apt install wget whois -y && wget https://raw.githubusercontent.com/maintebot/change-root/main/gasss-root.sh && chmod +x gasss-root.sh && ./gasss-root.sh && rm gasss-root.sh</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>wget -q https://raw.githubusercontent.com/sabdo-dadi/premium/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+<pre><code>wget -q https://raw.githubusercontent.com/F4-izz/premium/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/sabdo-dadi/premium/main/update1.sh && chmod +x update1.sh && ./update1.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/F4-izz/premium/main/update1.sh && chmod +x update1.sh && ./update1.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -54,6 +54,9 @@
 - UNDER ATTACK MODE : OFF
 ```
 ### Auther
+
+### CONTACT TOKO FAIZ <br>
+<a href="https://t.me/saerah1920" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6285201197548" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 
 ### CONTACT NEWBIE <br>
 <a href="https://t.me/newbie_store24" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6282326322300" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
