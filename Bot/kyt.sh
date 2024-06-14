@@ -13,6 +13,9 @@ NC='\e[0m'
 cd /usr/bin
 rm -rf kyt
 rm -rf bot
+rm kyt.*
+rm *.session
+rm bot.*
 apt update && apt upgrade
 apt install neofetch -y
 apt install python3 python3-pip git
