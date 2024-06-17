@@ -9,7 +9,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/F4-izz/premium/main/update1.sh && chmod +x update1.sh && ./update1.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/F4-izz/premium/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
